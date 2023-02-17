@@ -6,7 +6,8 @@
              "description": "From a static list of quotes, display a new random quote each time the user clicks the 'random quote' button. A new quote is also displayed once every 5 seconds.",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://gavinbroekema.github.io/techdegree-project-1/",
-             "image_urls": ["images/1-random-quote-generator-thumbnail.jpg", "images/1-random-quote-generator-1.jpg", "images/1-random-quote-generator-2.jpg", "images/1-random-quote-generator-3.jpg"]
+             "github_link": "https://github.com/gavinbroekema/techdegree-project-1",
+             "image_urls": ["/images/1-random-quote-generator-thumbnail.jpg", "/images/1-random-quote-generator-1.jpg", "/images/1-random-quote-generator-2.jpg", "/images/1-random-quote-generator-3.jpg"]
         },
         { 
             "id": "2",
@@ -14,6 +15,7 @@
              "description": "Use a common web development technique known as “pagination” to enhance the usability of a web page. Also implements search and filtering based on user input.",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://gavinbroekema.github.io/techdegree-project-2/",
+             "github_link": "https://github.com/gavinbroekema/techdegree-project-2",
              "image_urls": ["/images/2-data-pagination-and-filtering-thumbnail.jpg", "/images/2-data-pagination-and-filtering-1.jpg", "/images/2-data-pagination-and-filtering-2.jpg", "/images/2-data-pagination-and-filtering-3.jpg"]
         },
         { 
@@ -22,7 +24,8 @@
              "description": "Use JavaScript to enhance an interactive registration form for a fictional Full Stack conference.",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://gavinbroekema.github.io/techdegree-project-3/",
-             "image_urls": ["images/3-interactive-form-thumbnail.jpg", "images/3-interactive-form-1.jpg", "images/3-interactive-form-2.jpg", "images/3-interactive-form-3.jpg"]
+             "github_link": "https://github.com/gavinbroekema/techdegree-project-3",
+             "image_urls": ["/images/3-interactive-form-thumbnail.jpg", "/images/3-interactive-form-1.jpg", "/images/3-interactive-form-2.jpg", "/images/3-interactive-form-3.jpg"]
         },
         { 
             "id": "4",
@@ -30,7 +33,8 @@
              "description": "A hidden phrase application in which the user has 5 attempts to guess a random phrase.",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://gavinbroekema.github.io/techdegree-project-4/",
-             "image_urls": ["images/4-oop-game-show-app-thumbnail.jpg", "images/4-oop-game-show-app-1.jpg", "images/4-oop-game-show-app-2.jpg", "images/4-oop-game-show-app-3.jpg"]
+             "github_link": "https://github.com/gavinbroekema/techdegree-project-4",
+             "image_urls": ["/images/4-oop-game-show-app-thumbnail.jpg", "/images/4-oop-game-show-app-1.jpg", "/images/4-oop-game-show-app-2.jpg", "/images/4-oop-game-show-app-3.jpg"]
         },
         { 
             "id": "5",
@@ -38,7 +42,8 @@
              "description": "Pull and display 12 random users from the randomuser.me API.",
              "technologies": ["HTML", "CSS", "JavaScript"],
              "live_link": "https://gavinbroekema.github.io/techdegree-project-5/",
-             "image_urls": ["images/5-public-api-request-thumbnail.jpg", "images/5-public-api-request-1.jpg", "images/5-public-api-request-2.jpg", "images/5-public-api-request-3.jpg"]
+             "github_link": "https://github.com/gavinbroekema/techdegree-project-5",
+             "image_urls": ["/images/5-public-api-request-thumbnail.jpg", "/images/5-public-api-request-1.jpg", "/images/5-public-api-request-2.jpg", "/images/5-public-api-request-3.jpg"]
         }
     ]
 }
